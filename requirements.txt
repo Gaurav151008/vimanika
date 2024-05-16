@@ -1,0 +1,12 @@
+contactus form closing button
+updating profile
+updating footer
+updating training page
+    add courses admin
+    show courses
+    open courses
+
+update services page
+    add services admin
+    open services 
+    show services
